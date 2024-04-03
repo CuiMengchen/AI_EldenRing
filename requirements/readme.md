@@ -37,9 +37,11 @@ Energy: 170
 
 3. 武器相关知识补充：
 主武器（右手武器）：名刀月隐
+
    ![alt text](image-3.png)
 
 副武器（左手武器）：卡利亚权杖
+
    ![alt text](image-4.png)
 
 
@@ -57,10 +59,15 @@ Energy: 170
 
 4. 其他相关配置
 游戏亮度：
+
    ![alt text](image-5.png)
+   
 窗口分辨率：
+
    ![alt text](image-6.png)
+   
 游戏画质：
+
    ![alt text](image-7.png)
 
 4/4/2024 update:
