@@ -11,21 +11,24 @@ C:\Users\用户名\AppData\Roaming\EldenRing\76561197960267366
 
 4/4/2024 update for 存档:
 1.AppData文件夹如果找不到请勾选显示隐藏文件，如图
-![alt text](1712164471098.jpg)
+
+   ![alt text](1712164471098.jpg)
 
 2.如果用STEAM启动游戏，请用ERSaveIDEditor.exe这个程序更换存档：
+
 ![alt text](1712164753827.png)
 
 2. 人物状态说明
-能力值
-![alt text](image.png)
+   能力值
+   ![alt text](image.png)
+
 生命力对应血量
 集中力对应蓝量
 耐力对应绿条，可以理解为行动力，施法/移动/翻滚/攻击等一切行为皆需要耐力，耐力会自动回复，耐力空值后除了行走无法进行任何操作
 力气/灵巧/信仰/感应此次训练不需要，具体与武器类型的伤害补正有关（伤害补正会在下文中解释），皆设置为20
 智力对应法术强度，设置为99
+   ![alt text](image-2.png)
 
-![alt text](image-2.png)
 基本属性如下
 HP：2226
 MP：450
@@ -34,9 +37,12 @@ Energy: 170
 
 3. 武器相关知识补充：
 主武器（右手武器）：名刀月隐
-![alt text](image-3.png)
+   ![alt text](image-3.png)
+
 副武器（左手武器）：卡利亚权杖
-![alt text](image-4.png)
+   ![alt text](image-4.png)
+
+
 必需能力值指的是：如果相关属性加点不够阈值，则无法发挥武器全部性能，伤害会很低
 
 能力加成指的是相关属性的伤害补正，S为最高，其次是A、B、C、D、E、F, 当能力值为S时，意味着该属性越高，这把武器伤害越高，正相关收益最高，能力值为F时，意味着能力值与该武器伤害虽然成正比关系，但收益很低，可以忽略不计
@@ -51,18 +57,18 @@ Energy: 170
 
 4. 其他相关配置
 游戏亮度：
-![alt text](image-5.png)
+   ![alt text](image-5.png)
 窗口分辨率：
-![alt text](image-6.png)
+   ![alt text](image-6.png)
 游戏画质：
-![alt text](image-7.png)
+   ![alt text](image-7.png)
 
 4/4/2024 update:
 游戏按键：
-![alt text](e731e177e2a527f677dbb32bd6bb580.png)
+   ![alt text](e731e177e2a527f677dbb32bd6bb580.png)
 
 
-![alt text](013ab6eccc188aa57c40ea3797b1d03.png)
+   ![alt text](013ab6eccc188aa57c40ea3797b1d03.png)
    1.记得进游戏后改成键盘、鼠标操作：
    ![alt text](1712165029113.jpg)
    2.还有无边框窗口化或者窗口化，不然无法键盘映射：
