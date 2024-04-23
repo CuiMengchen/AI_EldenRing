@@ -1,0 +1,2 @@
+1.先看一下requirements里面的readme配置存档
+2.存档文件在preparation文件夹
